@@ -24,7 +24,7 @@ $$\text{Score} = \frac{1}{n}\sum_{i=1}^{n} \text{DetectScore}_i \times (1 - \tex
 
 ---
 
-## Solution Strategy (Best Score: `0.6445`)
+## Solution Strategy
 
 Our strategy balanced the strict binary classifier requirement against pixel distortion:
 
@@ -38,14 +38,14 @@ Our strategy balanced the strict binary classifier requirement against pixel dis
 
 ---
 
-## 🛠️ Stack & Pretrained Models
+## Stack & Pretrained Models
 - **Language:** Python 3.10+
 - **Frameworks:** PyTorch, Hugging Face Hub, NumPy, PIL
-- **Generative Models:** [RAR (Randomized Autoregressive Visual Generation)](https://github.com/yucornetto/RAR) & [TiTok / MaskGIT Tokenizer](https://huggingface.co/fun-research/TiTok)
+- **Generative Models:** RAR (Randomized Autoregressive Visual Generation) & TiTok / MaskGIT Tokenizer
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Install requirements:
    ```bash
