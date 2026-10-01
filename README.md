@@ -2,7 +2,7 @@
 
 Adversarial pipeline developed for the **European Championship in Trustworthy AI** organized by the **CISPA Helmholtz Center for Information Security**.
 
-> 🏆 **Achievement:** Qualified as **2nd Place Finalists in the Barcelona Stage** to compete at the European Grand Finals in Germany.
+> 🏆 **Achievement:** Qualified as **2nd Place Finalists in the Barcelona Stage** to compete at the European Grand Final in Germany.
 
 ---
 
