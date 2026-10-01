@@ -1,0 +1,5 @@
+numpy
+torch
+Pillow
+requests
+huggingface_hub

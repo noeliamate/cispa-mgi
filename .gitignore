@@ -1,0 +1,17 @@
+# Model weights & cache
+model/
+*.bin
+*.pt
+*.onnx
+
+# Data & submissions
+data/
+*.zip
+*.npz
+submission.npz
+
+# Python environment
+__pycache__/
+*.pyc
+.env
+venv/
